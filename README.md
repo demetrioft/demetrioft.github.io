@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eurisko
 
 You can use the [editor on GitHub](https://github.com/demetrioft/demetrioft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
